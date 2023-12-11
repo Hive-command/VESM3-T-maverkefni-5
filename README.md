@@ -27,4 +27,5 @@ Mynd af sendir
 ### Kóðin
 Vantar koda og link
 ## Heimildir
-
+Við notuðum engan kóða frá netinu.  
+Lærðum allt frá VESM2VÞ05CU-Hát áfanganum og Geiri
