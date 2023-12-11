@@ -12,7 +12,7 @@ rafrásarteikning af ESP-Sendir-Tinkercad
 ### Myndir
 Mynd af host og sendir  
 ![Mynd af host og sendir](https://github.com/Hive-command/VESM3-T-maverkefni-5/blob/main/20231206_112233.jpg)
-mynd af sendir  
+Mynd af sendir  
 ![Mynd af sendir](https://github.com/Hive-command/VESM3-T-maverkefni-5/blob/main/20231206_112220.jpg)
 ### Kóðin
 Vantar koda og link
