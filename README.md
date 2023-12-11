@@ -1,4 +1,4 @@
-# VESM3-T-maverkefni-5
+# VESM3-Tímaverkefni-5
 Sindri Freysson og Kristján Ómar Eggertsson
 ## Prototype 1
 ### Hugmyndinn
