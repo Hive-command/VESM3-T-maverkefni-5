@@ -69,6 +69,7 @@ def espnow_fall(mottaka):
         print('___________')
 
 
+# Tékkar hvort skilaboð hafi verið send frá hinum ESP-inum
 espnow.irq(espnow_fall)
 
 from machine import Pin, ADC
